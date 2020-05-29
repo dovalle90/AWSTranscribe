@@ -1,7 +1,7 @@
 # AWSTranscribe
 Cliente para utilizar el servicio de Amazon Transcribe
 
-# AWS Transcribe Streaming Aplocacion de Java maven
+# AWS Transcribe Aplicacion de Java maven
 
 Aplicacion de Java usando AWS SDK creando trasncripciones via streaming utilizando AWS Transcribe
 
